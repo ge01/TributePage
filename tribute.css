@@ -1,12 +1,11 @@
 body {
   margin-top: 40px;
+  margin-bottom: 40px;
   background-color: #0C090A;
 }
-
 .container {
   background-color: #B6B6B4;
 }
-
 .jumbotron {
   background-color: #B6B6B4;
 }
